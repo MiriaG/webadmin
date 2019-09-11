@@ -1,3 +1,6 @@
+#git push -u origin master comando para salvar no github 
+
+
 from flask import Flask , render_template
 
 app=Flask(__name__)
